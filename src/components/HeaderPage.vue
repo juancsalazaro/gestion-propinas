@@ -30,7 +30,7 @@ export default {
     },
     data() {
         return {
-            efectivoEnCaja: '0.00' // Valor inicial
+            efectivoEnCaja: '0.00'
         };
     },
     mounted() {

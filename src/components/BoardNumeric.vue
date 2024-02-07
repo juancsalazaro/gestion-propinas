@@ -38,17 +38,14 @@ export default {
                 return;
             }
             if (key === '⌫') {
-                // Eliminar el último carácter del valor de entrada
                 this.inputValue = this.inputValue.slice(0, -1);
             } else {
-                // Agregar el carácter al valor de entrada
-                if (this.inputValue.length < 10) { // Limita el número de caracteres
+                if (this.inputValue.length < 10) {
                     this.inputValue += key;
                 }
             }
         },
         handleClear() {
-            // Limpiar el valor de entrada
             this.inputValue = '';
         },
         handleConfirm() {

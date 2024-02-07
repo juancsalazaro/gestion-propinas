@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
-import PagoPropinas from '@/views/PagoPropinas.vue'; // Asegúrate de importar la vista PagoPropinas correctamente
+import PagoPropinas from '@/views/PagoPropinas.vue';
 
 const routes: Array<RouteRecordRaw> = [
   {
