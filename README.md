@@ -1,24 +1,33 @@
-# gestion-propinas
+# Gestion Propinas Frontend
 
-## Project setup
-```
-npm install
-```
+Este es el frontend para una aplicación de gestión de propinas desarrollada por Juan Camilo Salazar. La aplicación proporciona una interfaz de usuario para interactuar con el backend y realizar diversas operaciones relacionadas con la gestión de propinas.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tecnologías Utilizadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Vue.js:** Framework progresivo de JavaScript utilizado para construir interfaces de usuario.
+- **Vue Router:** Enrutador oficial para aplicaciones Vue.js que facilita la navegación entre vistas.
+- **Vuex:** Biblioteca de gestión de estados para Vue.js que permite centralizar y administrar el estado de la aplicación.
+- **Axios:** Cliente HTTP basado en promesas utilizado para realizar solicitudes HTTP al backend.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Funcionalidades Principales
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **Registro de Propinas:** Permite visualizar y registrar nuevas propinas, ingresando detalles como el monto total, el número de personas y los métodos de pago.
+- **Visualización de Registros:** Proporciona una interfaz para ver todos los registros de propinas, incluyendo detalles como el monto total, los métodos de pago y el estado de pago.
+- **Pago Parcial:** Permite realizar pagos parciales para los registros de propinas, actualizando el estado de pago y el restante por pagar.
+
+## Instalación y Uso
+
+1. Clona este repositorio en tu máquina local.
+2. Instala las dependencias utilizando npm:
+3. Inicia el servidor de desarrollo:
+
+4. Abre tu navegador y accede a la dirección proporcionada por el servidor de desarrollo (por lo general, http://localhost:8080).
+
+## Contribución
+
+Las contribuciones son bienvenidas. Si encuentras algún error o deseas mejorar el proyecto, por favor abre un issue o envía un pull request.
+
+## Contacto
+
+Para más información, puedes contactar a Juan Camilo Salazar en [nombre_de_usuario@correo.com](mailto:nombre_de_usuario@correo.com).
+
