@@ -23,11 +23,3 @@ Este es el frontend para una aplicación de gestión de propinas desarrollada po
 
 4. Abre tu navegador y accede a la dirección proporcionada por el servidor de desarrollo (por lo general, http://localhost:8080).
 
-## Contribución
-
-Las contribuciones son bienvenidas. Si encuentras algún error o deseas mejorar el proyecto, por favor abre un issue o envía un pull request.
-
-## Contacto
-
-Para más información, puedes contactar a Juan Camilo Salazar en [nombre_de_usuario@correo.com](mailto:nombre_de_usuario@correo.com).
-
